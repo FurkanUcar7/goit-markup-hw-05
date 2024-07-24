@@ -429,7 +429,6 @@ footer{
 .footer-user-info{
     display: flex;
     gap: 24px;
-    justify-content:s;
 }
 
 .footer-input{
